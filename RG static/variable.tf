@@ -1,0 +1,3 @@
+variable "xyx" {
+  type=string
+}

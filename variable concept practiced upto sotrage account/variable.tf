@@ -1,0 +1,4 @@
+variable "rgg" {
+  type=string
+}
+

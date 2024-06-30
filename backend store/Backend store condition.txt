@@ -1,0 +1,10 @@
+If you change the backend configuration, Terraform may prompt you to migrate the existing state to the new backend.
+
+If you modify resource configurations, Terraform will update the infrastructure to match the new configuration, and the state file will be updated accordingly.
+
+Terraform ensures that the state file accurately reflects the current state of your infrastructure, regardless of any changes made to your configuration.
+
+
+
+
+
